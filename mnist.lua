@@ -29,7 +29,7 @@ mv tmp.txt mnist_dim9.txt
 
 -- where is the data?
 
-path = '/Users/wmoxbury/data/MNIST/'
+path = '~/data/MNIST/'
 img_file = 'train-images-idx3-ubyte'
 lab_file = 'train-labels-idx1-ubyte'
 img_test = 't10k-images-idx3-ubyte'
